@@ -1,0 +1,399 @@
+[0m[[0minfo[0m] [0mPackaging /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/dnaseqanalyzer_2.10-1.0.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/seekablestream/SeekableFTPStreamHelper.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/seekablestream/SeekableFTPStreamHelper.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/apps/TimeChannel.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/apps/TimeChannel.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/util/SortingCollection$PeekFileRecordIterator.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/util/SortingCollection$PeekFileRecordIterator.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/SAMFormatException.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/SAMFormatException.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/util/ftp/FTPClient.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/util/ftp/FTPClient.class[0m
+[0m[[0mdebug[0m] [0m	tudelft/utils/ChromosomeRange$Range.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/tudelft/utils/ChromosomeRange$Range.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/seekablestream/SeekableFTPStream.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/seekablestream/SeekableFTPStream.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/AbstractBAMFileIndex$IndexFileBuffer.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/AbstractBAMFileIndex$IndexFileBuffer.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/BAMIndex.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/BAMIndex.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/SAMFileReader$AssertableIterator.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/SAMFileReader$AssertableIterator.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/util/ftp/FTPUtils.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/util/ftp/FTPUtils.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/SAMRecordFactory.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/SAMRecordFactory.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/SAMTextHeaderCodec$HeaderRecordType.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/SAMTextHeaderCodec$HeaderRecordType.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/seekablestream/SeekableHTTPStream.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/seekablestream/SeekableHTTPStream.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/SAMFileWriterImpl.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/SAMFileWriterImpl.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/BinList.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/BinList.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/util/BlockCompressedStreamConstants.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/util/BlockCompressedStreamConstants.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/util/CloseableIterator.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/util/CloseableIterator.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/util/StringLineReader.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/util/StringLineReader.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/SAMTextReader$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/SAMTextReader$1.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/util/DateParser$InvalidDateException.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/util/DateParser$InvalidDateException.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/apps/TimeRandomAccessFile.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/apps/TimeRandomAccessFile.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/apps[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/apps[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/BAMIndexer.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/BAMIndexer.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/util/HttpUtils.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/util/HttpUtils.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/SAMTools.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/SAMTools.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/AlignmentBlock.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/AlignmentBlock.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/util/SortingLongCollection$FileValueIterator.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/util/SortingLongCollection$FileValueIterator.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/FileTruncatedException.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/FileTruncatedException.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/util/SequenceUtil$SequenceListsDifferException.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/util/SequenceUtil$SequenceListsDifferException.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/SAMTextReader$RecordIterator.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/SAMTextReader$RecordIterator.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/DefaultSAMRecordFactory.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/DefaultSAMRecordFactory.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/DiskBasedBAMFileIndex.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/DiskBasedBAMFileIndex.class[0m
+[0m[[0mdebug[0m] [0m	tudelft/utils/SAMRecordIterator.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/tudelft/utils/SAMRecordIterator.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/util/SnappyLoader.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/util/SnappyLoader.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/BAMIndexContent$BinList$BinIterator.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/BAMIndexContent$BinList$BinIterator.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/util/SortingLongCollection.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/util/SortingLongCollection.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/util/SortingLongCollection$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/util/SortingLongCollection$1.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/BamIndexValidator.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/BamIndexValidator.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/SAMValidationError$Severity.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/SAMValidationError$Severity.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/util/RuntimeIOException.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/util/RuntimeIOException.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/util/BlockCompressedInputStream$FileTermination.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/util/BlockCompressedInputStream$FileTermination.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/BAMIndexWriter.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/BAMIndexWriter.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/BAMFileSpan.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/BAMFileSpan.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/SAMFileTruncatedReader$TruncatedIterator.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/SAMFileTruncatedReader$TruncatedIterator.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/util/AsciiWriter.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/util/AsciiWriter.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/SQTagUtil$SQBase.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/SQTagUtil$SQBase.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/seekablestream/SeekableStreamFactory.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/seekablestream/SeekableStreamFactory.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/SAMFileReader$ValidationStringency.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/SAMFileReader$ValidationStringency.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/AsyncSAMFileWriter.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/AsyncSAMFileWriter.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/SAMTextHeaderCodec$ParsedHeaderLine.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/SAMTextHeaderCodec$ParsedHeaderLine.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/FixBAMFile.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/FixBAMFile.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/util/PeekIterator.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/util/PeekIterator.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/BinaryCigarCodec.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/BinaryCigarCodec.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/CigarElement.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/CigarElement.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/util/ftp/FTPStream.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/util/ftp/FTPStream.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/SAMBinaryTagAndValue.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/SAMBinaryTagAndValue.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/SAMException.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/SAMException.class[0m
+[0m[[0mdebug[0m] [0m	DNASeqAnalyzer$.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/DNASeqAnalyzer$.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/SAMRecordIterator.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/SAMRecordIterator.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/example/ExampleSamUsage.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/example/ExampleSamUsage.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/SAMRecordUtil.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/SAMRecordUtil.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/util/SortingCollection$InMemoryIterator.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/util/SortingCollection$InMemoryIterator.class[0m
+[0m[[0mdebug[0m] [0m	DNASeqAnalyzer.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/DNASeqAnalyzer.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/TagValueAndUnsignedArrayFlag.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/TagValueAndUnsignedArrayFlag.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/seekablestream/SeekableStream.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/seekablestream/SeekableStream.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/SAMTextWriter.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/SAMTextWriter.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/BAMFileReader.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/BAMFileReader.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/util/TestUtil.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/util/TestUtil.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/SAMFileHeader$SortOrder.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/SAMFileHeader$SortOrder.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/util/BufferedLineReader.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/util/BufferedLineReader.class[0m
+[0m[[0mdebug[0m] [0m	tudelft[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/tudelft[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/TextTagCodec.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/TextTagCodec.class[0m
+[0m[[0mdebug[0m] [0m	net[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/AbstractBAMFileIndex.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/AbstractBAMFileIndex.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/util/DelegatingIterator.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/util/DelegatingIterator.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/SAMValidationError.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/SAMValidationError.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/TextualBAMIndexWriter.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/TextualBAMIndexWriter.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/SAMRecordQueryNameComparator.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/SAMRecordQueryNameComparator.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/SAMTextHeaderCodec.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/SAMTextHeaderCodec.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/util/TempStreamFactory.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/util/TempStreamFactory.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/SAMUtils.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/SAMUtils.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/SAMTextHeaderCodec$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/SAMTextHeaderCodec$1.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/util/SortingCollection$FileRecordIterator.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/util/SortingCollection$FileRecordIterator.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/TextTagCodec$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/TextTagCodec$1.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/util/RuntimeEOFException.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/util/RuntimeEOFException.class[0m
+[0m[[0mdebug[0m] [0m	tudelft/utils/QualityException.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/tudelft/utils/QualityException.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/util/BlockCompressedInputStream.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/util/BlockCompressedInputStream.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/util/SortingLongCollection$PeekFileValueIterator.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/util/SortingLongCollection$PeekFileValueIterator.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/SAMSequenceDictionary.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/SAMSequenceDictionary.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/SAMRecordCoordinateComparator.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/SAMRecordCoordinateComparator.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/SAMFileSpan.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/SAMFileSpan.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/BAMIndexMetaData.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/BAMIndexMetaData.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/util/AbstractAsyncWriter$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/util/AbstractAsyncWriter$1.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/util/CoordMath.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/util/CoordMath.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/util/Iso8601Date$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/util/Iso8601Date$1.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/SAMSortOrderChecker$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/SAMSortOrderChecker$1.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/SAMValidationError$Type.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/SAMValidationError$Type.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/AbstractBAMFileIndex$MemoryMappedFileBuffer.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/AbstractBAMFileIndex$MemoryMappedFileBuffer.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/example[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/example[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/LinearIndex.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/LinearIndex.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/util/SortingCollection.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/util/SortingCollection.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/SAMRecord.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/SAMRecord.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/BinList$BinIterator.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/BinList$BinIterator.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/SAMBinaryTagAndUnsignedArrayValue.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/SAMBinaryTagAndUnsignedArrayValue.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/BAMFileReader$BAMQueryFilteringIterator.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/BAMFileReader$BAMQueryFilteringIterator.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/util/BlockCompressedFilePointerUtil.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/util/BlockCompressedFilePointerUtil.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/util/BinaryCodec.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/util/BinaryCodec.class[0m
+[0m[[0mdebug[0m] [0m	tudelft/utils/DictParser.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/tudelft/utils/DictParser.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/Cigar.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/Cigar.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/util/BlockGunzipper.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/util/BlockGunzipper.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/util/IOUtil.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/util/IOUtil.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/BAMFileConstants.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/BAMFileConstants.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/SAMRecordSetBuilder$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/SAMRecordSetBuilder$1.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/util/SortingCollection$PollableTreeSet.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/util/SortingCollection$PollableTreeSet.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/seekablestream/SeekableBufferedStream.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/seekablestream/SeekableBufferedStream.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/AbstractBAMFileIndex$IndexStreamBuffer.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/AbstractBAMFileIndex$IndexStreamBuffer.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/SAMReadGroupRecord.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/SAMReadGroupRecord.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/util/StopWatch.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/util/StopWatch.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/SAMFileTruncatedReader.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/SAMFileTruncatedReader.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/BAMFileReader$BAMFileIndexIterator.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/BAMFileReader$BAMFileIndexIterator.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/CigarOperator.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/CigarOperator.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/CigarOperator$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/CigarOperator$1.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/BinaryBAMIndexWriter.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/BinaryBAMIndexWriter.class[0m
+[0m[[0mdebug[0m] [0m	tudelft/utils/QualityEncoding$QENCODING.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/tudelft/utils/QualityEncoding$QENCODING.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/SAMRecord$SAMTagAndValue.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/SAMRecord$SAMTagAndValue.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/util/AbstractAsyncWriter.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/util/AbstractAsyncWriter.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/Cigar$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/Cigar$1.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/util/SortingCollection$Codec.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/util/SortingCollection$Codec.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/util/SeekableStream.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/util/SeekableStream.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/util/CloserUtil.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/util/CloserUtil.class[0m
+[0m[[0mdebug[0m] [0m	tudelft/utils/Configuration.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/tudelft/utils/Configuration.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/seekablestream/SeekableFileStream.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/seekablestream/SeekableFileStream.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/AbstractBAMFileIndex$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/AbstractBAMFileIndex$1.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/util/Md5CalculatingInputStream.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/util/Md5CalculatingInputStream.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/AbstractBAMFileIndex$RandomAccessFileBuffer.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/AbstractBAMFileIndex$RandomAccessFileBuffer.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/BAMFileReader$BAMFileIndexUnmappedIterator.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/BAMFileReader$BAMFileIndexUnmappedIterator.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/SAMFileReader$ReaderImplementation.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/SAMFileReader$ReaderImplementation.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/SAMProgramRecord.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/SAMProgramRecord.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/SAMRecordComparator.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/SAMRecordComparator.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/util/BlockCompressedOutputStream.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/util/BlockCompressedOutputStream.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/SAMTag.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/SAMTag.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/util/Md5CalculatingOutputStream.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/util/Md5CalculatingOutputStream.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/BAMFileReader$QueryType.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/BAMFileReader$QueryType.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/BAMFileWriter.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/BAMFileWriter.class[0m
+[0m[[0mdebug[0m] [0m	net/sf[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/Bin.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/Bin.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/Chunk.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/Chunk.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/SAMRecordSetBuilder.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/SAMRecordSetBuilder.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/util/LineReader.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/util/LineReader.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/BinaryTagCodec.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/BinaryTagCodec.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/Defaults.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/Defaults.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/SAMTestUtil.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/SAMTestUtil.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/SAMFileSource.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/SAMFileSource.class[0m
+[0m[[0mdebug[0m] [0m	tudelft/utils/QualityEncoding.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/tudelft/utils/QualityEncoding.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/util/SortingCollection$MergingIterator.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/util/SortingCollection$MergingIterator.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/BAMIndexContent$BinList.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/BAMIndexContent$BinList.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/seekablestream/UserPasswordInput.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/seekablestream/UserPasswordInput.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/SAMFileHeader$GroupOrder.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/SAMFileHeader$GroupOrder.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/util/AbstractAsyncWriter$WriterRunnable.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/util/AbstractAsyncWriter$WriterRunnable.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/util/ftp/FTPClient$SocketInputStream.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/util/ftp/FTPClient$SocketInputStream.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/seekablestream[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/seekablestream[0m
+[0m[[0mdebug[0m] [0m	tudelft/utils/ChromosomeRange.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/tudelft/utils/ChromosomeRange.class[0m
+[0m[[0mdebug[0m] [0m	BWAKeyValues.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/BWAKeyValues.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/util/SortingCollection$PeekFileRecordIteratorComparator.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/util/SortingCollection$PeekFileRecordIteratorComparator.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/SAMFileWriterFactory.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/SAMFileWriterFactory.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/util/ftp/FTPReply.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/util/ftp/FTPReply.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/SAMLineParser.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/SAMLineParser.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/BAMRecord.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/BAMRecord.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/SAMRecord$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/SAMRecord$1.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/AbstractSAMHeaderRecord.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/AbstractSAMHeaderRecord.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/util/ftp[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/util/ftp[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/SAMSequenceRecord.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/SAMSequenceRecord.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/SAMFileWriter.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/SAMFileWriter.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/util/StringUtil.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/util/StringUtil.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/util/SequenceUtil.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/util/SequenceUtil.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/SAMTagUtil.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/SAMTagUtil.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/BAMIndexContent.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/BAMIndexContent.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/CachingBAMFileIndex.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/CachingBAMFileIndex.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/SAMFileHeader.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/SAMFileHeader.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/util/DateParser.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/util/DateParser.class[0m
+[0m[[0mdebug[0m] [0m	tudelft/utils[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/tudelft/utils[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/BAMIndexer$BAMIndexBuilder.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/BAMIndexer$BAMIndexBuilder.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/util[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/util[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/util/SortingLongCollection$PeekFileValueIteratorComparator.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/util/SortingLongCollection$PeekFileValueIteratorComparator.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/SQTagUtil.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/SQTagUtil.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/BAMFileReader$BAMFileIterator.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/BAMFileReader$BAMFileIterator.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/SAMFileReader.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/SAMFileReader.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/NotPrimarySkippingIterator.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/NotPrimarySkippingIterator.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/TextCigarCodec.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/TextCigarCodec.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/BAMRecordCodec.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/BAMRecordCodec.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/SAMFileWriterImpl$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/SAMFileWriterImpl$1.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/util/Iso8601Date.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/util/Iso8601Date.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/SAMSortOrderChecker.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/SAMSortOrderChecker.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/BAMFileReader$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/BAMFileReader$1.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/BrowseableBAMIndex.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/BrowseableBAMIndex.class[0m
+[0m[[0mdebug[0m] [0m	net/sf/samtools/SAMTextReader.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/fei/Downloads/Assignment3_files/template code/target/scala-2.10/classes/net/sf/samtools/SAMTextReader.class[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m
