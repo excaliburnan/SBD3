@@ -140,11 +140,16 @@ def main(args: Array[String])
 	//conf.set("spark.cores.max", config.getNumInstances())
 	
 	// For cluster mode, include the following commented line
-	//conf.set("spark.shuffle.blockTransferService", "nio") 
+	conf.set("spark.shuffle.blockTransferService", "nio") 
 	
 	val sc = new SparkContext(conf)
 	
 	// Rest of the code goes here
+	var file1 = sc.textFile("/data/spark/fastq/fastq1.fq")
+	file1 = file1.repartition(4)
+	var file2 = sc.textFile("/data/spark/fastq/fastq2.fq")
+	file2 = file2.repartition(4)
+
 }
 //////////////////////////////////////////////////////////////////////////////
 } // End of Class definition
